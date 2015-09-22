@@ -1,1 +1,1 @@
-gem 'bindshell' :git => 'git://github.com/joernchen/bindshell'
+gem 'bindshell', :git => 'git://github.com/joernchen/bindshell'
